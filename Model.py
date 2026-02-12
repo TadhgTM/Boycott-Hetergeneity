@@ -5,7 +5,7 @@
 
 Notes:
 - Hardware tested on: Macbook Pro (M5, 24GB RAM, 2025)
-- Last updated: Nov 2025
+- Last updated: Dec 2025
 
 """
 
